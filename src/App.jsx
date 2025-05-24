@@ -37,7 +37,7 @@ const App = () => {
   }
 
   return (
-    <div className='flex items-center justify-center h-screen bg-gray-500'>
+    <div className='flex items-center justify-center h-screen bg-gray-900'>
         <div className='bg-blue-500 showdow-lg p-4 rounded-md'>
           <div className='text-center py-2 font-bold text-xl text-blue-50'>Password Generator</div>
           <div className='flex items-center'>
